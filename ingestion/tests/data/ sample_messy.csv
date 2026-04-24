@@ -1,0 +1,6 @@
+mrn,first_name,last_name,dob,gender,record_type,record_date,content
+MRN-05555,emily,JOHNSON,15-JAN-85,F,Labs,2024-02-14,Lipid panel: LDL 145 borderline high
+00006666,Frank,davis,1968/11/22,MALE,Discharge Note,2024-03-30,Post-op note. Wound healing well.
+MRN-7777,Grace,LEE,null,2,MRI,2024-06-01,Brain MRI: No abnormalities detected.
+00008888,Henry,Wilson,1992-07-04,m,clinical note,2024-07-15,Routine checkup. All vitals normal.
+00008888,Henry,Wilson,1992-07-04,m,clinical note,2024-07-15,Routine checkup. All vitals normal.

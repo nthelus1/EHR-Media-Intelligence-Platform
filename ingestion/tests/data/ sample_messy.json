@@ -1,0 +1,32 @@
+[
+  {
+    "MRN": "MRN-001",
+    "first_name": "alice",
+    "last_name": "SMITH",
+    "DOB": "01/15/1980",
+    "Sex": "F",
+    "record_type": "laboratory",
+    "date": "March 5 2024",
+    "content": "CBC: WBC 5.2, RBC 4.8, HGB 13.5. Flagged: HGB slightly low."
+  },
+  {
+    "MRN": "MRN-001",
+    "first_name": "alice",
+    "last_name": "SMITH",
+    "DOB": "01/15/1980",
+    "Sex": "F",
+    "record_type": "laboratory",
+    "date": "March 5 2024",
+    "content": "CBC: WBC 5.2, RBC 4.8, HGB 13.5. Flagged: HGB slightly low."
+  },
+  {
+    "patient_id": "2345",
+    "first_name": "Bob",
+    "last_name": "jones",
+    "dateOfBirth": "1975-06-30",
+    "gender": "male",
+    "documentType": "Radiology",
+    "encounterDate": "2024-01-10",
+    "text": "Chest X-Ray PA view. Lungs clear. No consolidation."
+  }
+]
